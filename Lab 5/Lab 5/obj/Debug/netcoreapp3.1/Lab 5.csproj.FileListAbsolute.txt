@@ -1,0 +1,16 @@
+C:\Users\n\Documents\учеба\epam\4_c#_ООП\16 лек Исключения\Lab 5\Lab 5\bin\Debug\netcoreapp3.1\Lab 5.exe
+C:\Users\n\Documents\учеба\epam\4_c#_ООП\16 лек Исключения\Lab 5\Lab 5\bin\Debug\netcoreapp3.1\Lab 5.deps.json
+C:\Users\n\Documents\учеба\epam\4_c#_ООП\16 лек Исключения\Lab 5\Lab 5\bin\Debug\netcoreapp3.1\Lab 5.runtimeconfig.json
+C:\Users\n\Documents\учеба\epam\4_c#_ООП\16 лек Исключения\Lab 5\Lab 5\bin\Debug\netcoreapp3.1\Lab 5.runtimeconfig.dev.json
+C:\Users\n\Documents\учеба\epam\4_c#_ООП\16 лек Исключения\Lab 5\Lab 5\bin\Debug\netcoreapp3.1\Lab 5.dll
+C:\Users\n\Documents\учеба\epam\4_c#_ООП\16 лек Исключения\Lab 5\Lab 5\bin\Debug\netcoreapp3.1\Lab 5.pdb
+C:\Users\n\Documents\учеба\epam\4_c#_ООП\16 лек Исключения\Lab 5\Lab 5\obj\Debug\netcoreapp3.1\Lab 5.csprojAssemblyReference.cache
+C:\Users\n\Documents\учеба\epam\4_c#_ООП\16 лек Исключения\Lab 5\Lab 5\obj\Debug\netcoreapp3.1\Lab 5.AssemblyInfoInputs.cache
+C:\Users\n\Documents\учеба\epam\4_c#_ООП\16 лек Исключения\Lab 5\Lab 5\obj\Debug\netcoreapp3.1\Lab 5.AssemblyInfo.cs
+C:\Users\n\Documents\учеба\epam\4_c#_ООП\16 лек Исключения\Lab 5\Lab 5\obj\Debug\netcoreapp3.1\Lab 5.dll
+C:\Users\n\Documents\учеба\epam\4_c#_ООП\16 лек Исключения\Lab 5\Lab 5\obj\Debug\netcoreapp3.1\Lab 5.pdb
+C:\Users\n\Documents\учеба\epam\4_c#_ООП\16 лек Исключения\Lab 5\Lab 5\obj\Debug\netcoreapp3.1\Lab 5.genruntimeconfig.cache
+C:\Users\n\Documents\учеба\epam\4_c#_ООП\16 лек Исключения\Lab 5\Lab 5\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\n\Documents\учеба\epam\4_c#_ООП\16 лек Исключения\Lab 5\Lab 5\obj\Debug\netcoreapp3.1\Lab 5.csproj.CopyComplete
+C:\Users\n\Documents\учеба\epam\4_c#_ООП\16 лек Исключения\Lab 5\Lab 5\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\n\Documents\учеба\epam\4_c#_ООП\16 лек Исключения\Lab 5\Lab 5\obj\Debug\netcoreapp3.1\Lab 5.csproj.CoreCompileInputs.cache
